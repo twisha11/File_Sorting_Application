@@ -3,4 +3,5 @@ Sorting application to different files extension.
 
 # Demo
 
-![Screenshot (139)](https://user-images.githubusercontent.com/67854912/235056415-29fd0626-d38f-4ac1-9ae1-14e47dc603bd.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/67854912/235056683-fd580129-1163-47f8-9047-f987e54a7472.png)
+
